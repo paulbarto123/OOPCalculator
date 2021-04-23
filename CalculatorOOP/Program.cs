@@ -114,7 +114,7 @@ namespace CalculatorOOP
             Satu = satu;
             Dua = dua;
         }
-        //Overriding then Overloading
+        //Overriding
         public override int Kali(int angka1, int angka2, int angka3)
         {
             return angka1 / angka2 / angka3;
